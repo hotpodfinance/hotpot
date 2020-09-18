@@ -1,1 +1,1 @@
-# hotpotfinance
+# Hotpot finance
