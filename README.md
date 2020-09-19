@@ -24,7 +24,7 @@ Of course, everyone wants more if the food is good. CeFi’s percentage allocati
 
 $hotpot will have a limited total supply of 60,000,000 tokens , 18,000,000 of which will be mineable annually. Each annual period will be based on the closest block height the system determines at a specific time to the block one year after. Rewards will be based on this formula -
 
-#### Staked Amount * Block Difference = Weighted Miner’s Rewards.
+#### Staked Amount * Block Difference = Weighted Taster’s Rewards.
 
 The weighted block difference encourages the idea that “early hotpot tasters get the table”. In other words, for the same staked amount at a later time would net you lesser rewards.
 
