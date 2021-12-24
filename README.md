@@ -1,4 +1,4 @@
-## Please Note !!!
+## IMPORTANT NOTICE
 
 ### Hey there, we moved our official github. You can find the official github of Hotpot Finance at: https://github.com/hotpotfinance/hotpot
 
