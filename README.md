@@ -14,10 +14,10 @@ Hotpot Finance is a DeFi initiative on BSC that provides yield farming tools. Th
 [https://hotpot.finance/](https://hotpot.finance)
 
 #### Discord
-[https://twitter.com/hotpot_finance](https://discord.gg/bRUNv5UQxr)
+[https://discord.gg/bRUNv5UQxr](https://discord.gg/bRUNv5UQxr)
 
 #### Twitter
-[https://discord.gg/bRUNv5UQxr](https://twitter.com/hotpot_finance)
+[https://twitter.com/hotpot_finance](https://twitter.com/hotpot_finance)
 
 #### Telegram
 [https://t.me/hotpot_finacne_announcement](https://t.me/hotpot_finacne_announcement)
